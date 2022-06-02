@@ -9,7 +9,7 @@ enum34==1.1.2
 Flask==0.10.1
 gunicorn==19.4.5
 gyp==0.1
-html5lib==0.999
+html5lib==0.99999999
 idna==2.0
 ipaddress==1.0.16
 itsdangerous==0.24
